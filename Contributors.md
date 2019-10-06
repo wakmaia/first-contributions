@@ -16808,3 +16808,4 @@ Mário Baltazar
 - [Dimitri](https://github.com/DBelf)
 - [Chowdhury Isfatul Karim](https://github.com/isfatul-codersbd)
 - [Ahmetcan Guvendiren](https://github.com/glacion)
+- [Wak'Oleva Felicidade Maia](https://github.com/wakmaia)
